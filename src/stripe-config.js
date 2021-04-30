@@ -1,0 +1,1 @@
+export const stripe = window.Stripe(process.env.VUE_APP_STRIPE_P);
